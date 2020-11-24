@@ -3,4 +3,5 @@ GPATH
 GRTAGS
 GTAGS
 vendor/
-/.log/
+.log/
+/emacs/emacstest/.vscode/
