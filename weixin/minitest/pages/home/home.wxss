@@ -1,0 +1,13 @@
+page{
+    background-color: pink;
+    height: 100%;
+    widows: 750rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 24pt;
+    color:blue;
+}

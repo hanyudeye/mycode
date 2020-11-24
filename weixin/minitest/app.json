@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/home/home"
+  ],
+  "window": {
+      "navigationBarBackgroundColor": "#ff0000",
+      "navigationBarTextStyle": "white",
+      "navigationBarTitleText": "小程序demo",
+      "navigationStyle": "default",
+      "backgroundColor": "#ffffff",
+      "backgroundTextStyle": "dark",
+      "backgroundColorTop": "#ffffff",
+      "backgroundColorBottom": "#ffffff",
+      "enablePullDownRefresh": true,
+      "onReachBottomDistance": 50
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,7 @@
+<view>
+    <text class="title">hello,world{{name}}</text>
+</view>
+<view>
+<text bind:tap="show">当前时间{{now}}</text>
+
+</view>
