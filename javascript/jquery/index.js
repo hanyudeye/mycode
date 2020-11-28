@@ -1,0 +1,5 @@
+$(function(){
+
+    $(".title").html("nihao")
+
+})
