@@ -4,4 +4,4 @@ class sky(object):
 
     def showmsg(self):
         print("天空对你"+self.msg)
-
+ 
