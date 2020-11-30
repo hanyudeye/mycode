@@ -5,3 +5,6 @@ GTAGS
 vendor/
 .log/
 /emacs/emacstest/.vscode/
+*.o
+/.ccls-cache/
+*.out
