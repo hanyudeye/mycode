@@ -1,0 +1,12 @@
+/* pages/home/index.wxss */
+
+.navi{
+    background-color: aquamarine;
+    font-size: 2em;
+}
+
+.scroll{
+    border: 2px solid black;
+    height: 40px;
+    width: 80%;
+}
