@@ -8,5 +8,5 @@ vendor/
 *.o
 /.ccls-cache/
 *.out
-
+node_modules/
 .vscode
