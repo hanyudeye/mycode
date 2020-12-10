@@ -1,0 +1,6 @@
+<from>
+<view>
+<lable>请输入名字</lable>
+   <input type="text" name="name"/> 
+</view>
+</from>

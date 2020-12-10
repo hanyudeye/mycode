@@ -1,0 +1,10 @@
+Page({
+    data:{
+        students:[
+            {name:"a","sex":"男"},
+            {name:"c","sex":"男"},
+            {name:"b","sex":"女"},
+            {name:"d","sex":"女"},
+        ]
+    }
+})

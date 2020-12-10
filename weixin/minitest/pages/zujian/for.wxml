@@ -1,0 +1,10 @@
+<view>wx:for</view>
+<view wx:for="{{students}}">
+<text >{{item.name}}</text>
+<text >{{item.sex}}</text>
+</view>
+<view>wx:key</view>
+<view wx:for="{{students}}" wx:key="name">
+<text >{{item.name}}</text>
+<text >{{item.sex}}</text>
+</view>

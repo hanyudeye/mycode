@@ -1,8 +1,5 @@
-/* pages/home/index.wxss */
-
 .navi{
     background-color: aquamarine;
-    font-size: 2em;
 }
 
 .scroll{
