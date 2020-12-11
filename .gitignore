@@ -10,3 +10,6 @@ vendor/
 *.out
 node_modules/
 .vscode
+# 排除cpptest 下所有执行文件
+cpp/cpptest/*
+!*.cpp
