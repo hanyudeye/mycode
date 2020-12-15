@@ -5,6 +5,7 @@
     <navigator url="/pages/zujian/form">表单</navigator>
     <navigator url="/pages/zujian/userauth">授权登录</navigator>
     <navigator url="/pages/zujian/for">wx:key 循环</navigator>
+    <navigator url="/pages/api/pull">上拉加载</navigator>
 
 </view>
 

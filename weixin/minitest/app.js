@@ -1,6 +1,7 @@
 App({
   globalData: {
     now: new Date().toLocaleString(),
+    page:1
   },
   getlogininfo: function () {
 

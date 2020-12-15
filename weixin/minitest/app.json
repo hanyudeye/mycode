@@ -3,6 +3,7 @@
     "pages/home/index",
     "pages/home/home",
     "pages/about/about",
+    "pages/api/pull",
     "pages/zujian/form",
     "pages/zujian/for",
     "pages/zujian/userauth"
