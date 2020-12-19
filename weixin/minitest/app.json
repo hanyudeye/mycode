@@ -6,7 +6,9 @@
     "pages/api/pull",
     "pages/zujian/form",
     "pages/zujian/for",
-    "pages/zujian/userauth"
+    "pages/zujian/userauth",
+    "pages/zujian/haibao",
+    "pages/zujian/canvas"
   ],
   "window": {
     "navigationBarBackgroundColor": "#ff0000",

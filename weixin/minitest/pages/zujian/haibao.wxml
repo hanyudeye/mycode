@@ -1,0 +1,5 @@
+<view class="intro">
+  <!-- <canvas style="width: 375px;height: 612px;position:fixed;top:9999px;left:0;z-index:223;" canvas-id="mycanvas"></canvas> -->
+  <canvas style="width:300px;height:500px;" canvas-id="mycanvas"></canvas>
+  <!-- <image src="{{imagePath}}" mode="widthFix"></image> -->
+</view>

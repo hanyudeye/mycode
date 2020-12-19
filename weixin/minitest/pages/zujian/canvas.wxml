@@ -1,0 +1,3 @@
+<!--pages/zujian/canvas.wxml-->
+<text>pages/zujian/canvas.wxml</text>
+<canvas canvas-id="firstCanvas" style="width:700px;height:700px;" />

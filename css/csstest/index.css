@@ -1,0 +1,21 @@
+html{
+  font-size: 20px;
+}
+
+section{
+  width:15rem;
+  height: 12rem;
+  background: skyblue;
+  text-align: center;
+  border: dashed red;
+  border-radius: 10% 
+}
+
+section header{
+  font-size: 20px;
+}
+
+p {
+  text-align:center;
+  color:red;
+}
